@@ -3,8 +3,8 @@
     "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
     "react": "https://cdn.jsdelivr.net/npm/react@17.0.1/umd/react.production.min.js",
     "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@17.0.1/umd/react-dom.production.min.js",
-    "@dams/root-config": "https://deve.testes.com/dams-root-config.js",
-    "@dams/micro-ng": "https://deve.testes.com/mfe/main.js",
+    "@dams/root-config": "https://mfe.testes.com/dams-root-config.js",
+    "@dams/micro-ng": "https://mfe.testes.com/micro-ng/main.js",
     "@dams/micro-react": "http://localhost:8500/dams-micro-react.js",
     "@dams/micro-vue": "http://localhost:8081/js/app.js"
   }

@@ -3,7 +3,7 @@
     "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
     "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
     "@dams/micro-nav": "https://micro-nav.vercel.app/main.js",
-    "@dams/root-config": "https://deve.testes.com/dams-root-config.js",
-    "@dams/micro-ng": "https://deve.testes.com/mfe/main.js"
+    "@dams/root-config": "https://mfe.testes.com/dams-root-config.js",
+    "@dams/micro-ng": "https://mfe.testes.com/micro-ng/main.js"
   }
 }
