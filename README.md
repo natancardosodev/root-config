@@ -10,7 +10,7 @@
 - Coloque um dominio de testes em `sudo gedit /etc/hosts`
   - Adicione a linha: `127.0.0.1 mfe.testes.com`
 
-- Rode `sudo gedit /etc/nginx/sites-available/default` e adicione:
+- Estando com [nginx configurado](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-pt), rode `sudo gedit /etc/nginx/sites-available/default` e adicione:
 
 ```conf
 server {
